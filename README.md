@@ -9,15 +9,26 @@ L'**entièreté du projet n'est pas terminé** du fait que je suis allée un peu
 ## Main-menu -> L’_Énéide_ : Ulysse et Achille
 ### Utilisation, ou réutilisation, des figures homériques par le poète Virgile et son commentateur Servius
 
-Dans ce premier menu, j'ai décidé de **changer l'image en arrière plan** pour y intégrer une **image libre de droit** représentant l'**Acropole d'Athènes**. Au vu de mon sujet qui se concentre certes sur des **textes écrits en latin** mais ayant pour objet d'analayse des **figures grecques**, j'ai préféré rester dans une **présentation esthétique rappelant la Grèce et ses héros**. Ceci explique aussi mon choix d'image d'arrière plan dans les sous-menus concernant Virgile _(statue d'un héros grec conseillé par la déesse Athéna)_ et Servius _(l'Acropole d'Athènes sous un autre angle de vue)_.
+Dans ce premier menu, j'ai décidé de **changer l'image en arrière plan** pour y intégrer une **image libre de droit** représentant l'**Acropole d'Athènes**. Au vu de mon sujet qui se concentre certes sur des **textes écrits en latin** mais ayant pour objet d'analayse des **figures grecques**, j'ai préféré rester dans une **présentation esthétique rappelant la Grèce et ses héros**. Ceci explique aussi mon choix d'image d'arrière plan dans les sous-menus concernant Virgile _(statue d'un héros grec conseillé par la déesse Athéna)_ et Servius _(l'Acropole d'Athènes sous un autre angle de vue)_.\
 
-### Intro
-Une rapide introduction permettant de comprendre les raisons qui m'ont poussé à prendre un tel sujet et l'appui historique.
-### Exemple
-Un exemple afin de visualiser le processus d'analyse et d'extraction des données. J'ai choisi la mention d'Achille au vers 99 du livre I de l'Enéide car celle-ci me paraissait la plus pertinente et la plus complète parmi celles que j'ai déjà commencé à traiter.
-### Occurences
+Dans ce menu, **cinq articles principaux** sont disponibles ainsi que deux autres articles _(Ulysse et Achille, dont seul le second à un début de rédaction)_ et deux accès à deux nouveaux menus _(Virgile et Servius)_, qui donneront eux-mêmes accès à d'autres menus et articles.
+
+## Intro
+Le premier article est une **rapide introduction** permettant de comprendre les raisons qui m'ont poussé à prendre un tel **sujet de mémoire**. On peut y voir l'**appui historique**.\
+Certains mots sont en gras pour souligner leur importance. Les mots surligner en bleu clair sont ceux permettant de former l'idée principale de l'article. _(Ces mêmes règles s'appliquent aux autres articles)_
+
+## Exemple
+Ce deuxième article est le plus important de tous et sert à montrer la manière dont je travaille sur le sujet. Il est un **exemple** qui sert à **visualiser le processus d'analyse et d'extraction des données**.\
+J'ai choisi la **mention d'Achille au vers 99 du livre I de l'_Énéide_** car celle-ci me paraît être la plus pertinente et la plus complète parmi celles que j'ai déjà commencé à traiter. Elle contient de **nombreuses informations** à la fois explicite et implicite et pose bien le cadre.
+
+## Occurences
 Un tableau des occurences afin d'obtenir une vue d'ensemble des mentions relevées dans l'Enéide de Virgile. La couleur rouge symbolisant Achille (la guerre, le sang, la colère), et celle bleu, Ulysse (l'Odyssée, la mer). La couleur verte montre les différents totaux qui en résultent (couleur différente des deux autres, à connotations positive et de validité).
-### à propos
+
+## à propos
 Cet article a pour but de compléter l'introduction avec cette fois l'intérêt d'une telle étude.
-### Contact
+
+## Contact
 Enfin, j'ai décidé de laisser les contacts même si pour le moment je n'en vois pas l'intérêt ou l'utilité.
+
+## Achille
+Malgré que l'article ne soit pas terminé, il a déjà une bonne base avec une solide première partie sur l'enfance et la genèse du héros. Le reste est soit en cours de réécriture soit en conception _(recherches non terminées)_.
