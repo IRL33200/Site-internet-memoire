@@ -24,13 +24,17 @@ J'ai choisi la **mention d'Achille au vers 99 du livre I de l'_Énéide_** car c
 Les **images d'oeuvres d'art** sélectionnées pour agrémenter les différents articles sont choisies pour leur côté **esthétique** qui s'accorde avec l'ensemble et leur **pertinence**. En effet, elles sont toutes reliées de près ou de loin à la **culture grecque antique**, à la **guerre de Troie** et aux **héros homériques**. _(Ces mêmes règles s'appliquent aux autres articles)_
 
 ## Occurences
-Un tableau des occurences afin d'obtenir une vue d'ensemble des mentions relevées dans l'Enéide de Virgile. La couleur rouge symbolisant Achille (la guerre, le sang, la colère), et celle bleu, Ulysse (l'Odyssée, la mer). La couleur verte montre les différents totaux qui en résultent (couleur différente des deux autres, à connotations positive et de validité).
+Le troisième article est un **tableau des occurences**. Il est là afin d'obtenir une **vue d'ensemble des mentions relevées** dans l'_Énéide_ de Virgile.\
+La couleur **rouge** symbolise le personnage d'**Achille** _(cf.l'Iliade, la guerre, le sang, la colère)_ et la couleur **bleu foncé**, celui d'**Ulysse** _(cf.l'Odyssée, la mer, l'esprit, les tempêtes)_.\
+Pour ce qui est de la couleur **verte**, elle montre les **différents totaux** qui résultent des observations faites à la suite du relevé des occurrences. Je l'ai choisi notamment parce que c'est une **couleur différente des deux autres** et qu'elle a des connotations positives _(validité, feux vert)_.
 
 ## à propos
-Cet article a pour but de compléter l'introduction avec cette fois l'intérêt d'une telle étude.
+Cet article a pour but de **compléter l'introduction** en démontrant cette fois l'**intérêt d'une telle étude**.\
+En effet, l'introduction permettait de voir les arguments qui m'avaient amené à trouver un tel sujet. Désormais il s'agit de voir à quel genre de question ce mémoire pourrait répondre et donc quel intérêt y a-t-il a poursuivre son étude.
 
 ## Contact
-Enfin, j'ai décidé de laisser les contacts même si pour le moment je n'en vois pas l'intérêt ou l'utilité.
+Le cinquième et dernier articles parmi les principaux est celui **dédié aux contacts**. Je l'ai laissé même si pour le moment je n'en vois pas l'intérêt ou l'utilité.\
+Cependant, le **lien GitHub est censé être fonctionnel** et diriger directement vers ce dépôt-ci.
 
 ## Achille
 Malgré que l'article ne soit **pas terminé**, il a déjà une bonne **base** avec une **solide** première partie sur l'enfance et la genèse du héros. Le reste est soit **en cours** de réécriture soit en conception _(recherches non terminées)_.\
