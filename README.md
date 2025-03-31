@@ -15,11 +15,13 @@ Dans ce menu, **cinq articles principaux** sont disponibles ainsi que deux autre
 
 ## Intro
 Le premier article est une **rapide introduction** permettant de comprendre les raisons qui m'ont poussé à prendre un tel **sujet de mémoire**. On peut y voir l'**appui historique**.\
-Certains mots sont en gras pour souligner leur importance. Les mots surligner en bleu clair sont ceux permettant de former l'idée principale de l'article. _(Ces mêmes règles s'appliquent aux autres articles)_
+Certains mots sont en gras pour souligner leur importance. Les mots surlignés en bleu clair _(un peu comme le bleu du ciel en image de fond)_ sont ceux permettant de former l'idée principale de l'article. _(Ces mêmes règles s'appliquent aux autres articles)_\
+J'ai ajouté l'image de la statue de Ménélas tenant Patrocle parce qu'elle me semblait être une bonne représentation des évènements de la **guerre de Troie, élément non négligeable des oeuvres homériques et de mon sujet**, et qu'elle était **en accord niveau estétique avec le reste du site**.
 
 ## Exemple
 Ce deuxième article est le plus important de tous et sert à montrer la manière dont je travaille sur le sujet. Il est un **exemple** qui sert à **visualiser le processus d'analyse et d'extraction des données**.\
-J'ai choisi la **mention d'Achille au vers 99 du livre I de l'_Énéide_** car celle-ci me paraît être la plus pertinente et la plus complète parmi celles que j'ai déjà commencé à traiter. Elle contient de **nombreuses informations** à la fois explicite et implicite et pose bien le cadre.
+J'ai choisi la **mention d'Achille au vers 99 du livre I de l'_Énéide_** car celle-ci me paraît être la plus pertinente et la plus complète parmi celles que j'ai déjà commencé à traiter. Elle contient de **nombreuses informations** à la fois explicite et implicite et pose bien le cadre.\
+Les **images d'oeuvres d'art** sélectionnées pour agrémenter les différents articles sont choisies pour leur côté **esthétique** qui s'accorde avec l'ensemble et leur **pertinence**. En effet, elles sont toutes reliées de près ou de loin à la **culture grecque antique**, à la **guerre de Troie** et aux **héros homériques**. _(Ces mêmes règles s'appliquent aux autres articles)_
 
 ## Occurences
 Un tableau des occurences afin d'obtenir une vue d'ensemble des mentions relevées dans l'Enéide de Virgile. La couleur rouge symbolisant Achille (la guerre, le sang, la colère), et celle bleu, Ulysse (l'Odyssée, la mer). La couleur verte montre les différents totaux qui en résultent (couleur différente des deux autres, à connotations positive et de validité).
@@ -31,4 +33,9 @@ Cet article a pour but de compléter l'introduction avec cette fois l'intérêt 
 Enfin, j'ai décidé de laisser les contacts même si pour le moment je n'en vois pas l'intérêt ou l'utilité.
 
 ## Achille
-Malgré que l'article ne soit pas terminé, il a déjà une bonne base avec une solide première partie sur l'enfance et la genèse du héros. Le reste est soit en cours de réécriture soit en conception _(recherches non terminées)_.
+Malgré que l'article ne soit **pas terminé**, il a déjà une bonne **base** avec une **solide** première partie sur l'enfance et la genèse du héros. Le reste est soit **en cours** de réécriture soit en conception _(recherches non terminées)_.\
+Cet article cherche à **regrouper et présenter le parcours d'Achille** ainsi que d'en **dépeindre un portrait global** qui aiderait à la **compréhension** et à l'analyse des mentions faites par les auteurs du sujet.\
+Les images sélectionnées sont encore une fois **choisies pour leur pertinence avec les faits évoqués**.
+
+## Les deux sous-menus
+Ils sont **en cours de construction** et ne sont pour le moment pas vraiment pertinents. Ils vont aussi au-delà du projet initial, prévu pour le cours d'Humanités numériques.
